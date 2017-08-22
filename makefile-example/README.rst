@@ -1,0 +1,2 @@
+- target之外的内容如果要缩进，必须使用空格。
+- target之内的command如果要缩进，必须使用tab。
